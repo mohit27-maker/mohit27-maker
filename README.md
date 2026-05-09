@@ -1,16 +1,23 @@
-## Hi there 👋
+Hey, I'm Mohit Sengar 👋
+BCA Graduate · Data Analyst in Training · Aligarh, India
 
-<!--
-**mohit27-maker/mohit27-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋‍♂️ About Me
+I'm a BCA graduate from Aligarh who discovered a passion for turning raw, messy data into clear stories and actionable decisions. I'm currently on a focused journey to become a professional Data Analyst — one dataset at a time.
+My approach is hands-on: I work with real-world data (sales figures, streaming trends, weather records, flight delays) because I believe the best way to learn is to actually build things.
 
-Here are some ideas to get you started:
+🔍 I love digging into data to find patterns that aren't obvious at first glance
+📊 Building interactive Power BI dashboards that make insights click for non-technical stakeholders
+🐍 Writing clean Python analysis pipelines using Pandas, NumPy, Matplotlib & Seaborn
+📚 Currently deepening my SQL and DAX skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Advanced SQL (window functions, CTEs, query optimization)
+- Statistical foundations for data analysis
+- Building end-to-end analytics projects from data collection to dashboard
+
+🤝 Let's Connect
+I'm actively looking for opportunities as a Data Analyst — entry-level roles, freelance projects, or just conversations about data.
+
+📍 Aligarh, Uttar Pradesh, India  |  🕐 UTC+05:30
+
+<div align="center"> "Without data, you're just another person with an opinion." — W. Edwards Deming </div>div
