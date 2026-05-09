@@ -20,4 +20,4 @@ I'm actively looking for opportunities as a Data Analyst — entry-level roles, 
 
 📍 Aligarh, Uttar Pradesh, India  |  🕐 UTC+05:30
 
-<div align="center"> "Without data, you're just another person with an opinion." — W. Edwards Deming </div>div
+<div align="center"> "Without data, you're just another person with an opinion." — W. Edwards Deming </div>
