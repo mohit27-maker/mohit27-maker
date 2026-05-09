@@ -27,29 +27,6 @@ My approach is hands-on: I work with real-world data (sales figures, streaming t
 
 ---
 
-## 🗂️ Featured Projects
-
-### 🐍 [`python-data-insights`](https://github.com/mohit27-maker/python-data-insights)
-A growing collection of Python EDA projects on real-world datasets — including **Blinkit grocery analysis**, **Diwali sales trends**, **Netflix content breakdowns**, **weather patterns**, and **airline flight data**. Each notebook walks through data cleaning, exploration, and visual storytelling.
-
-> **Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
-
----
-
-### 📊 [`powerbi-dashboards`](https://github.com/mohit27-maker/powerbi-dashboards)
-Interactive business intelligence dashboards built with Power BI. Projects cover **sales performance**, **customer segmentation**, **financial overviews**, **Spotify listening trends**, and **weather analytics** — all focused on making data digestible and decision-ready.
-
-> **Stack:** Power BI · DAX · Power Query · Excel · SQL
-
----
-
-### 📝 [`pwAssigment`](https://github.com/mohit27-maker/pwAssigment)
-All assignments completed during the **Physics Wallah Data Analytics course** — covering core analytical concepts and methods with progressively complex real-world datasets.
-
-> **Stack:** Python · Jupyter Notebook
-
----
-
 ## 🛠️ Tech Toolbox
 
 | Category | Tools |
