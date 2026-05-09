@@ -40,18 +40,6 @@ My approach is hands-on: I work with real-world data (sales figures, streaming t
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohit27-maker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit27-maker&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced SQL (window functions, CTEs, query optimization)
