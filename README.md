@@ -74,7 +74,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit27-maker&theme=tokyo-night&hide_border=true&bg_color=00000000" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit27-maker&theme=tokyo-night&hide_border=true" width="97%"/>
 </div>
 
 ---
