@@ -1,63 +1,101 @@
 <div align="center">
 
-# Hey, I'm Mohit Sengar 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:2c5364&height=220&section=header&text=Mohit%20Sengar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%E2%80%A2%20Python%20%E2%80%A2%20Power%20BI&descAlignY=58&descSize=18" width="100%"/>
 
-### BCA Graduate · Data Analyst in Training · Aligarh, India
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mohit27-maker/python-data-insights)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/mohit27-maker/powerbi-dashboards)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](#)
+<a href="https://github.com/mohit27-maker">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C9CFF&center=true&vCenter=true&width=600&lines=Turning+messy+data+into+decisions;Caught+a+%2466K+loss+hiding+in+one+order;Found+3x+churn+gap+in+SaaS+customers;Built+an+AI+sentiment+pipeline+with+FinBERT" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+### 📊 Featured Insights I've Uncovered
 
-I'm a **BCA graduate** from Aligarh who discovered a passion for turning raw, messy data into clear stories and actionable decisions. I'm currently on a focused journey to become a professional Data Analyst — one dataset at a time.
+<table>
+<tr>
+<td width="50%">
 
-My approach is hands-on: I work with real-world data (sales figures, streaming trends, weather records, flight delays) because I believe the best way to learn is to actually *build* things.
+**💸 Superstore Sales Intelligence**
+- Caught a **~$66K loss** hiding in a single order
+- Found a 40%+ discount threshold quietly killing margins
+- [`→ View Project`](https://github.com/mohit27-maker/sales-intelligence-analysis)
 
-- 🔍 I love digging into data to find patterns that aren't obvious at first glance
-- 📊 Building interactive Power BI dashboards that make insights **click** for non-technical stakeholders
-- 🐍 Writing clean Python analysis pipelines using Pandas, NumPy, Matplotlib & Seaborn
-- 📚 Currently deepening my SQL and DAX skills
+</td>
+<td width="50%">
+
+**📉 SaaS Churn & Revenue Analytics**
+- Basic-plan customers churn **3× more** than Enterprise
+- Paid Ads acquisition = 12% higher churn than Referrals
+- [`→ View Project`](https://github.com/mohit27-maker/SaaS-churn-revenue-analytics)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🏏 IPL Franchise Strategy Analysis**
+- Mined **260K+ ball-by-ball** records
+- Gujarat Titans: the only team stronger away than home
+- [`→ View Project`](https://github.com/mohit27-maker/IPL-strategy-analysis)
+
+</td>
+<td width="50%">
+
+**🤖 Stock Market Sentiment Pipeline**
+- FinBERT NLP scoring live news vs. stock prices
+- Real-time signals across 5 major tickers
+- [`→ View Project`](https://github.com/mohit27-maker/stock-sentiment-project)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Toolbox
+### 🛠️ Tech Stack
 
-| Category | Tools |
-|---|---|
-| **Languages** | Python, SQL |
-| **Data Analysis** | Pandas, NumPy |
-| **Visualization** | Matplotlib, Seaborn, Power BI |
-| **BI & ETL** | Power Query, DAX |
-| **Spreadsheets** | Microsoft Excel |
-| **Environment** | Jupyter Notebook, Google Colab |
-
----
-
-## 🌱 Currently Learning
-
-- Advanced SQL (window functions, CTEs, query optimization)
-- Statistical foundations for data analysis
-- Building end-to-end analytics projects from data collection to dashboard
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,jupyter,vscode,git,github&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</div>
 
 ---
 
-## 🤝 Let's Connect
+### 📈 GitHub Stats
 
-I'm actively looking for opportunities as a **Data Analyst** — entry-level roles, freelance projects, or just conversations about data.
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mohit27-maker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit27-maker&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
 
-> 📍 Aligarh, Uttar Pradesh, India &nbsp;|&nbsp; 🕐 UTC+05:30
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit27-maker&theme=tokyo-night&hide_border=true" width="97%"/>
+</div>
+
+---
+
+### 🌱 Currently Sharpening
+
+- Advanced SQL — window functions, CTEs, query optimization
+- Statistical foundations for analytics
+- End-to-end delivery: raw data → SQL model → dashboard → decision
 
 ---
 
 <div align="center">
 
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+**🤝 Open to Data Analyst / Business Analyst / SQL-BI Developer roles**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-sengar-16096a2bb/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitsengar279@gmail.com)
+
+<sub><i>"Without data, you're just another person with an opinion."</i> — W. Edwards Deming</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:1e2327&height=100&section=footer" width="100%"/>
 
 </div>
